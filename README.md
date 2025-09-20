@@ -141,6 +141,6 @@ pdf-rag-chatbot/
 
 ## 📄 License
 
-MIT License © \[Your Name]
+MIT License © \[Towha Elahi]
 
 ---
